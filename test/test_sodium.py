@@ -14,7 +14,7 @@ def test2():
   "local_address": "127.0.0.1",
   "local_port": 1080,
   "password": "yui",
-  "group": "Charles Xu",
+  "group": "石山频道",
   "obfs": "tls1.2_ticket_auth",
   "method": "chacha20",
   "ssr_protocol": "auth_sha1_v4",
